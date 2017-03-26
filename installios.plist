@@ -13,14 +13,6 @@
 					<key>url</key>
 					<string>http://60.169.75.39:8443//down/vpnmaster_mass-resigned.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://www.vpnmastertech.com/vpnwebsite/Images/logo.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -31,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>vpn大师</string>
+				<string>vpnmaster_mass</string>
 			</dict>
 		</dict>
 	</array>
